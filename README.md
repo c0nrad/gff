@@ -1,7 +1,7 @@
 Global File Finder
 ==================
 
-This little golang program finds all globally writable files in a directory. It recursively finds file that have the "w" permission for all Users.
+This little golang program finds all globally writable files. It recursively finds file that have the "w" permission for all Users.
 
 This is useful for finding entry points when doing penetration testing on an unknown system.
 
